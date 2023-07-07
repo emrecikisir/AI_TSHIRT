@@ -1,9 +1,1 @@
-# T-shirt_AI_Project
-# T-shirt_AI_Project
-# T-shirt_AI_Project
-# T-shirt_AI_Project
-# AI_TSHIRT
-# AI_TSHIRT
-# AI_TSHIRT
-# AI_TSHIRT
-# AI_TSHIRT
+T-SHIRT MAKER USING CHAT GPT'S DALL-E
